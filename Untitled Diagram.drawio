@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-26T14:24:50.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="AGMyaCw_trvIE41wskNR" version="12.7.7" type="github">
+<mxfile host="www.draw.io" modified="2020-02-26T14:26:58.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="3RxhYmREcTA2PC4TlenC" version="12.7.7" type="github">
   <diagram id="CdprMfN_qF_CRWi55L6L" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="YiC0rpGc2CwoCEHs72vA-16" value="position, velocity estimates" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="443" y="172" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YiC0rpGc2CwoCEHs72vA-17" value="Figure X ...." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="195" y="370" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
